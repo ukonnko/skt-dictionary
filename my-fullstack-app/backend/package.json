@@ -16,6 +16,11 @@
     "express": "^4.21.2",
     "pg": "^8.13.3",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.2",
+    "uuid": "^11.1.0",
+    "xmldom": "^0.6.0"
+  },
+  "devDependencies": {
+    "@types/xmldom": "^0.1.34"
   }
 }
